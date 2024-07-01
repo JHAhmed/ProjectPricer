@@ -3,7 +3,8 @@ import streamlit as st
 from datetime import datetime
 import os
 
-st.set_page_config(page_title="Project Pricer", layout="wide")
+st.set_page_config(page_title="Project Pricer", layout="wide", page_icon="📃",
+)
 
 
 services = {
