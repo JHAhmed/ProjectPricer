@@ -1,0 +1,7 @@
+test.py
+Data/
+.vscode/
+__pycache__/
+*.csv
+*.pdf
+*.xlsx
